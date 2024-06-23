@@ -1,0 +1,6 @@
+Hello my name is Anusri Karmokar
+I live in Mumbai
+I really like Mangoes 
+I want to go to Manali with my friends on a trip
+Please convince my parents for my permission
+new string appended after seek end.
